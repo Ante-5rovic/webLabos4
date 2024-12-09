@@ -1,0 +1,1 @@
+console.log("Skripta js1 ucitana!");

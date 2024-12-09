@@ -1,0 +1,1 @@
+console.log("Skripta js4 ucitana!");
